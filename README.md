@@ -21,6 +21,11 @@ Given a satellite image, classify the dominant land-use type such as forest, wat
 - Achieved ~70% accuracy on validation data
 - Model generalized well without overfitting
 
+## 📊 Training Results
+
+![Accuracy Plot](results/accuracy_screenshot.png)
+
+
 ## 🛠️ Tech Stack
 - Python
 - TensorFlow / Keras
@@ -34,3 +39,4 @@ Given a satellite image, classify the dominant land-use type such as forest, wat
 
 ## 📎 Notes
 This project was built as part of learning AI/ML and computer vision concepts with a focus on aerospace and satellite imagery.
+
